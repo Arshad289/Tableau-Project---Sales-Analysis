@@ -78,13 +78,13 @@ Sales-Dashboard/
 
 1. **Download the Files:**
    ```bash
-   git clone https://github.com/Arshad289/Sales-Dashboard.git
-   cd Sales-Dashboard
+   git clone https://github.com/Arshad289/Tableau-Project---Sales-Analysis.git
+   cd Tableau-Project---Sales-Analysis
    ```
 
 2. **Open in Tableau:**
-   - Double-click `Sales_Dashboard.twbx`
-   - OR open Tableau Desktop → File → Open → Select `Sales_Dashboard.twbx`
+   - Double-click `Sales Dashboard.twbx`
+   - OR open Tableau Desktop → File → Open → Select `Sales Dashboard.twbx`
 
 3. **Explore the Dashboard:**
    - Navigate through the storyboard tabs
