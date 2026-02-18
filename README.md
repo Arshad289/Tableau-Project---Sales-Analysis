@@ -23,7 +23,7 @@ An interactive **Tableau storyboard** analyzing **271,955+ sales transactions** 
 ## 🗂 Repository Contents
 
 ```
-Sales-Dashboard/
+Tableau-Project---Sales-Analysis/
 ├── Sales_Dashboard.twbx          # Tableau packaged workbook
 ├── sales_by_rep.csv             # Source data (271,955 rows)
 ├── Problem_Statement.docx       # Analysis objectives & findings
